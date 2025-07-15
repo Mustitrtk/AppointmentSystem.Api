@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 
-namespace AppointmentSystem.Core
+namespace AppointmentSystem.Core.Entities
 {
     public class Appointment
     {

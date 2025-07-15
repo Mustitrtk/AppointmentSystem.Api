@@ -1,5 +1,5 @@
 ﻿using AppointmentSystem.Application.Interfaces;
-using AppointmentSystem.Core;
+using AppointmentSystem.Core.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AppointmentSystem.Api.Controllers;

@@ -12,7 +12,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AppointmentSystem.Application\AppointmentSystem.Application.csproj" />
     <ProjectReference Include="..\AppointmentSystem.Core\AppointmentSystem.Core.csproj" />
   </ItemGroup>
 

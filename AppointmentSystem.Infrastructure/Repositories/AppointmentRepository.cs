@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using AppointmentSystem.Application.Interfaces;
-using AppointmentSystem.Core;
+using AppointmentSystem.Core.Entities;
 using Microsoft.Extensions.Options;
 using MongoDB.Driver;
 

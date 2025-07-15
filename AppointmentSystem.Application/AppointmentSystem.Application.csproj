@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\AppointmentSystem.Core\AppointmentSystem.Core.csproj" />
+    <ProjectReference Include="..\AppointmentSystem.Infrastructure\AppointmentSystem.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -1,5 +1,5 @@
 ﻿using AppointmentSystem.Application.Interfaces;
-using AppointmentSystem.Core;
+using AppointmentSystem.Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
